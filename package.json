@@ -7,11 +7,17 @@
     "@types/node": "12.0.4",
     "@types/react": "16.8.19",
     "@types/react-dom": "16.8.4",
+    "@types/yup": "^0.26.13",
+    "@xstyled/styled-components": "^1.0.4",
+    "formik": "^1.5.7",
+    "polished": "^3.4.0",
+    "ramda": "^0.26.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
     "styled-components": "^4.2.1",
-    "typescript": "3.5.1"
+    "typescript": "3.5.1",
+    "yup": "^0.27.0"
   },
   "devDependencies": {
     "@babel/core": "^7.4.5",
@@ -26,6 +32,7 @@
     "@storybook/addons": "^5.0.11",
     "@storybook/react": "^5.1.0-rc.3",
     "@testing-library/react": "^8.0.1",
+    "@types/ramda": "types/npm-ramda#dist",
     "@types/storybook__addon-a11y": "^5.0.0",
     "@types/storybook__addon-actions": "^3.4.2",
     "@types/storybook__addon-info": "^4.1.1",
